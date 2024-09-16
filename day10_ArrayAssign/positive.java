@@ -1,3 +1,4 @@
+package day10_ArrayAssign;
 class assign {
 
 //    void positiveValue() {
