@@ -12,7 +12,7 @@ public class Solution {
 
         if(-100 <= n && n <= 100) {
 
-            System.out.println(toString(n));
+            System.out.println();
             System.out.println("Good job");
         }
         else {

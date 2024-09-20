@@ -9,7 +9,10 @@ class LogicalAnd {
         try {
 
         }
-        catch (Exce)
+        catch (Exception e) {
+
+            System.out.println(e);
+        }
 
     }
 }
