@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "positive",
+      "request": "launch",
+      "mainClass": "day10_ArrayAssign.positive",
+      "projectName": "01_DSA with JAVA Foundation_49c4e698"
+    },
+    {
+      "type": "java",
       "name": "minimumNumber",
       "request": "launch",
       "mainClass": "day08_Methods.AssignMents.minimumNumber",

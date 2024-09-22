@@ -29,6 +29,9 @@ class Array1 {
 }
 
 
+
+
+
 class demoArray {
     public static void main(String[] args) {
         Array1 a = new Array1();
